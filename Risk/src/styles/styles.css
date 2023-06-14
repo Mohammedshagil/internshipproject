@@ -1,0 +1,104 @@
+input{
+    max-width: 200px;
+    margin-bottom: 2px;
+    border: 5px #000;
+}
+.btn{
+    margin-bottom: 5px;
+    min-width: 100px;
+}
+li{
+    list-style: none;
+}
+.contain{
+    display: flex;
+    flex-direction: row;
+}
+.rows{
+    display: flex;
+    justify-content: space-between;
+}
+.table-margin{
+    margin-left:20px ;
+    border: 2px solid #000;
+}
+.fullpage{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tablefield{
+    position: absolute;
+    top: 15vh;
+    right: 50%;
+}
+.heading {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #013265;
+}
+.colsdisplay{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.idDisplay{
+    margin-left: 120px;
+}
+.tds{
+    width: 100%;
+}
+.welcome {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.table-margin{
+    border: 2px solid #000;
+}
+.label{
+    display: flex;
+    justify-content: center;
+    font-family: 'Libre Baskerville', serif !important;
+    color: blue;
+}
+
+.labels {
+
+    font-size: 40px;
+    font-family: 'Libre Baskerville', serif!important;
+    color: blue;
+    display: inline-block;
+        justify-content: center;
+}
+.forms{
+    position: relative;
+        
+    align-items: center;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 350px;
+    padding: 25px;
+}
+.navcolor{
+    color: #fff!important;
+    text-decoration: underline;
+}
+
+.table{
+    
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+.pages-change{
+    display: flex;
+        justify-content: center;
+}
+span{
+    color: #fff!important;
+}
+li :hover{
+    font-weight: bold;
+}

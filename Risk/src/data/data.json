@@ -1,0 +1,351 @@
+[{
+  "application_ID": 1,
+  "first_name": "Esme",
+  "Amount": "$5.15",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 2,
+  "first_name": "Ninetta",
+  "Amount": "$8.46",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 3,
+  "first_name": "Caitrin",
+  "Amount": "$3.22",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 4,
+  "first_name": "Ibbie",
+  "Amount": "$2.05",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 5,
+  "first_name": "Lurlene",
+  "Amount": "$5.84",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 6,
+  "first_name": "Jacynth",
+  "Amount": "$8.81",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 7,
+  "first_name": "Kellby",
+  "Amount": "$4.58",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 8,
+  "first_name": "Cinnamon",
+  "Amount": "$8.26",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 9,
+  "first_name": "Sissie",
+  "Amount": "$6.24",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 10,
+  "first_name": "Sasha",
+  "Amount": "$0.49",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 11,
+  "first_name": "Darrel",
+  "Amount": "$4.24",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 12,
+  "first_name": "Siana",
+  "Amount": "$2.07",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 13,
+  "first_name": "Addi",
+  "Amount": "$9.41",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 14,
+  "first_name": "Sybil",
+  "Amount": "$5.29",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 15,
+  "first_name": "Vaughn",
+  "Amount": "$2.40",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 16,
+  "first_name": "Haydon",
+  "Amount": "$3.66",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 17,
+  "first_name": "Letitia",
+  "Amount": "$3.61",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 18,
+  "first_name": "Creighton",
+  "Amount": "$5.05",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 19,
+  "first_name": "Sheffy",
+  "Amount": "$9.01",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 20,
+  "first_name": "Fanny",
+  "Amount": "$7.66",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 21,
+  "first_name": "Rip",
+  "Amount": "$9.90",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 22,
+  "first_name": "Lucita",
+  "Amount": "$2.96",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 23,
+  "first_name": "Sally",
+  "Amount": "$4.62",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 24,
+  "first_name": "Judie",
+  "Amount": "$5.23",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 25,
+  "first_name": "Sampson",
+  "Amount": "$2.72",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 26,
+  "first_name": "Wynny",
+  "Amount": "$1.35",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 27,
+  "first_name": "Hamnet",
+  "Amount": "$7.04",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 28,
+  "first_name": "Heinrik",
+  "Amount": "$4.38",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 29,
+  "first_name": "Lilli",
+  "Amount": "$3.54",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 30,
+  "first_name": "Vannie",
+  "Amount": "$9.73",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 31,
+  "first_name": "Robbert",
+  "Amount": "$3.90",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 32,
+  "first_name": "Emelen",
+  "Amount": "$7.03",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 33,
+  "first_name": "Ludovika",
+  "Amount": "$3.19",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 34,
+  "first_name": "Jon",
+  "Amount": "$5.07",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 35,
+  "first_name": "Alaster",
+  "Amount": "$7.43",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 36,
+  "first_name": "Tara",
+  "Amount": "$6.84",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 37,
+  "first_name": "Luther",
+  "Amount": "$7.81",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 38,
+  "first_name": "Ruth",
+  "Amount": "$6.77",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 39,
+  "first_name": "Turner",
+  "Amount": "$2.55",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 40,
+  "first_name": "Welbie",
+  "Amount": "$6.97",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 41,
+  "first_name": "Hirsch",
+  "Amount": "$9.21",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 42,
+  "first_name": "Elvina",
+  "Amount": "$9.47",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 43,
+  "first_name": "Meade",
+  "Amount": "$2.55",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 44,
+  "first_name": "Sadye",
+  "Amount": "$4.67",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 45,
+  "first_name": "Syd",
+  "Amount": "$9.34",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 46,
+  "first_name": "Dru",
+  "Amount": "$3.90",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 47,
+  "first_name": "Foster",
+  "Amount": "$1.87",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 48,
+  "first_name": "Kylie",
+  "Amount": "$3.22",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}, {
+  "application_ID": 49,
+  "first_name": "Inger",
+  "Amount": "$8.70",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": false
+}, {
+  "application_ID": 50,
+  "first_name": "Randolf",
+  "Amount": "$3.10",
+  "date": "error: undefined method `id' for nil:NilClass",
+  "risk_analysis": null,
+  "wishlist": true
+}]
